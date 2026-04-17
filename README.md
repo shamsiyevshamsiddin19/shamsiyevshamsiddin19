@@ -5,23 +5,35 @@
 </p>
 
 <p align="center">
-  Building clean websites, learning modern technologies, and growing every day.
+  Building clean projects, learning modern technologies, and improving every day.
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/shamsiddin_shamsiyevv">
+    <img src="https://img.shields.io/badge/Instagram-%40shamsiddin__shamsiyevv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/shamsiyev_shamsiddin">
+    <img src="https://img.shields.io/badge/Telegram-%40shamsiyev__shamsiddin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/soft_area">
+    <img src="https://img.shields.io/badge/Channel-%40soft__area-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### ✦ About Me
 
-- 𖥔 Student and self-growing developer  
+- 𖥔 Web development enthusiast  
 - 𖥔 Learning HTML, CSS, TypeScript, and Python  
-- 𖥔 Interested in web development and real projects  
-- 𖥔 Focused on improving skills step by step  
+- 𖥔 Building real projects step by step  
+- 𖥔 Focused on clean code and growth  
 
 ---
 
 ### ✦ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode" />
 </p>
 
@@ -40,5 +52,5 @@
 ---
 
 <p align="center">
-  ✧ 𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ✧
+  ✦ 𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ✦
 </p>

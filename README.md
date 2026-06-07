@@ -8,16 +8,16 @@ Backend tizimlar, API arxitekturasi va ma'lumotlar bazalari bilan ishlashga ixti
 
 <p>
   <a href="https://shamsiyev.uz">
-    <img src="https://img.shields.io/badge/Website-shamsiyev.uz-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/shamsiyevshamsiddin19">
-    <img src="https://img.shields.io/badge/GitHub-shamsiyevshamsiddin19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/shamsiddin-shamsiyev-395516341">
-    <img src="https://img.shields.io/badge/LinkedIn-Shamsiddin%20Shamsiyev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/shamsiyev_shamsiddin">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@ Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli 
 | Language | Level |
 | --- | --- |
 | Uzbek | Native |
-| Russian | Fluent communication, reading and understanding |
+| Russian | Upper-intermediate, B2 level |
 | English | Intermediate, B1 level |
 
 ---
@@ -92,16 +92,16 @@ Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli 
 
 <p>
   <a href="https://shamsiyev.uz">
-    <img src="https://img.shields.io/badge/Website-shamsiyev.uz-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://t.me/shamsiyev_shamsiddin">
-    <img src="https://img.shields.io/badge/Telegram-%40shamsiyev_shamsiddin-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://t.me/soft_area">
-    <img src="https://img.shields.io/badge/Channel-Soft%20Area-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Soft Area Telegram channel" />
+    <img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Soft Area Telegram channel" />
   </a>
   <a href="https://www.linkedin.com/in/shamsiddin-shamsiyev-395516341">
-    <img src="https://img.shields.io/badge/LinkedIn-Shamsiddin%20Shamsiyev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 

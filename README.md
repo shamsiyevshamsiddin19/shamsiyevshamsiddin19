@@ -40,7 +40,7 @@ Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,html,css,cpp,postgres,mysql,git,github,vscode&theme=dark" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,typescript,html,css,cpp,postgres,mysql,git,github,vscode&theme=dark" alt="Tech stack icons" />
 
 </div>
 
@@ -49,9 +49,11 @@ Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli 
 | Backend | Frontend | Databases | Tools |
 | --- | --- | --- | --- |
 | Python | TypeScript | PostgreSQL | Git |
-| API development | HTML | MySQL | GitHub |
-| Server-side logic | CSS | SQL | VS Code |
-| Automation | Responsive layout | Data modeling | Linux basics |
+| Django | HTML | MySQL | GitHub |
+| Flask | CSS | SQL | VS Code |
+| FastAPI | Responsive layout | Data modeling | Linux basics |
+| API development |  |  |  |
+| Automation |  |  |  |
 
 ---
 

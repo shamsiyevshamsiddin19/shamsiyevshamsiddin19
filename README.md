@@ -4,7 +4,8 @@
 
 ### Python Backend Developer
 
-Backend tizimlar, API arxitekturasi va ma'lumotlar bazalari bilan ishlashga ixtisoslashgan dasturchi. Ish jarayonida toza kod, barqaror yechim va amaliy natijaga e'tibor qarataman.
+Backend tizimlar, REST API, ma'lumotlar bazasi va amaliy web yechimlar bilan ishlaydigan dasturchi.
+Asosiy e'tiborim toza kod, barqaror arxitektura va real foyda beradigan loyihalar yaratishga qaratilgan.
 
 <p>
   <a href="https://shamsiyev.uz">
@@ -27,12 +28,34 @@ Backend tizimlar, API arxitekturasi va ma'lumotlar bazalari bilan ishlashga ixti
 
 ## About Me
 
-Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli va real loyihalar uchun mustahkam backend yechimlar ishlab chiqishga qiziqaman. Maqsadim: foydalanuvchi uchun tez, tushunarli va ishonchli ishlaydigan tizimlar yaratish.
+Men Python backend yo'nalishida rivojlanayotgan dasturchiman. Django, Flask va FastAPI yordamida server-side ilovalar, REST API va database-driven web loyihalar yaratish bilan shug'ullanaman.
+
+```python
+developer = {
+    "name": "Shamsiddin Shamsiyev",
+    "role": "Python Backend Developer",
+    "focus": ["REST API", "Backend Architecture", "Database Design"],
+    "frameworks": ["Django", "Flask", "FastAPI"],
+    "website": "shamsiyev.uz",
+}
+```
 
 - Asosiy yo'nalish: Python backend development
 - Qiziqishlar: API design, database architecture, automation, clean code
 - Ishlash uslubi: mas'uliyatli, tizimli va natijaga yo'naltirilgan
 - Portfolio va aloqa: [shamsiyev.uz](https://shamsiyev.uz)
+
+---
+
+## Backend Focus
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-2E3440?style=for-the-badge" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/Database%20Design-336791?style=for-the-badge" alt="Database Design" />
+  <img src="https://img.shields.io/badge/Automation-3776AB?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge" alt="Clean Code" />
+</p>
 
 ---
 
@@ -50,20 +73,22 @@ Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli 
 | --- | --- | --- | --- |
 | Python | TypeScript | PostgreSQL | Git |
 | Django | HTML | MySQL | GitHub |
-| Flask | CSS | SQL | VS Code |
+| Flask | CSS | SQL queries | VS Code |
 | FastAPI | Responsive layout | Data modeling | Linux basics |
-| REST API development | Web interface basics | SQL queries | Project structure |
-| Automation | Clean layout | Database design | Code maintenance |
+| REST API development | Web interface basics | Database design | Project structure |
+| Automation | Clean layout | Query optimization basics | Code maintenance |
 
 ---
 
 ## What I Build
 
-- Backend services and REST APIs
-- Database-driven web applications
-- Automation scripts and developer tools
-- Clean, maintainable project structures
-- Practical web solutions for real users
+| Direction | Description |
+| --- | --- |
+| Backend services | Server-side logic, APIs and application structure |
+| REST APIs | Clean endpoints for web and mobile applications |
+| Database projects | PostgreSQL/MySQL based applications and data models |
+| Automation tools | Scripts and utilities that save time |
+| Web solutions | Practical projects for real users and businesses |
 
 ---
 
@@ -77,16 +102,16 @@ Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli 
 
 ---
 
-## GitHub Activity
+## GitHub
 
-I use GitHub to share backend projects, practice clean code and improve my development workflow.
+I use GitHub to publish projects, improve my backend skills and keep my development workflow organized.
 
 <p>
   <a href="https://github.com/shamsiyevshamsiddin19?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
   <a href="https://github.com/shamsiyevshamsiddin19">
-    <img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 
@@ -102,7 +127,7 @@ I use GitHub to share backend projects, practice clean code and improve my devel
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://t.me/soft_area">
-    <img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Soft Area Telegram channel" />
+    <img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram channel" />
   </a>
   <a href="https://www.linkedin.com/in/shamsiddin-shamsiyev-395516341">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -113,6 +138,6 @@ I use GitHub to share backend projects, practice clean code and improve my devel
 
 <div align="center">
 
-Professional backend development with Python, databases and clean engineering practices.
+Python backend development with clean code, reliable databases and practical engineering.
 
 </div>

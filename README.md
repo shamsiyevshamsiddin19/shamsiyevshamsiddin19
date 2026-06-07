@@ -1,56 +1,112 @@
-<h1 align="center">Shamsiddin Shamsiyev</h1>
+<div align="center">
 
-<p align="center">
-  𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 • 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 • 𝙁𝙪𝙩𝙪𝙧𝙚 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 𝘿𝙚𝙫
-</p>
+# Shamsiddin Shamsiyev
 
-<p align="center">
-  Building clean projects, learning modern technologies, and improving every day.
-</p>
+### Python Backend Developer
 
-<p align="center">
-  <a href="https://instagram.com/shamsiddin_shamsiyevv">
-    <img src="https://img.shields.io/badge/Instagram-%40shamsiddin__shamsiyevv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+Backend tizimlar, API arxitekturasi va ma'lumotlar bazalari bilan ishlashga ixtisoslashgan dasturchi. Ish jarayonida toza kod, barqaror yechim va amaliy natijaga e'tibor qarataman.
+
+<p>
+  <a href="https://shamsiyev.uz">
+    <img src="https://img.shields.io/badge/Website-shamsiyev.uz-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/shamsiyevshamsiddin19">
+    <img src="https://img.shields.io/badge/GitHub-shamsiyevshamsiddin19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/shamsiddin-shamsiyev-395516341">
+    <img src="https://img.shields.io/badge/LinkedIn-Shamsiddin%20Shamsiyev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/shamsiyev_shamsiddin">
-    <img src="https://img.shields.io/badge/Telegram-%40shamsiyev__shamsiddin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli va real loyihalar uchun mustahkam backend yechimlar ishlab chiqishga qiziqaman. Maqsadim: foydalanuvchi uchun tez, tushunarli va ishonchli ishlaydigan tizimlar yaratish.
+
+- Asosiy yo'nalish: Python backend development
+- Qiziqishlar: API design, database architecture, automation, clean code
+- Ishlash uslubi: mas'uliyatli, tizimli va natijaga yo'naltirilgan
+- Portfolio va aloqa: [shamsiyev.uz](https://shamsiyev.uz)
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,html,css,cpp,postgres,mysql,git,github,vscode&theme=dark" alt="Tech stack icons" />
+
+</div>
+
+### Core Skills
+
+| Backend | Frontend | Databases | Tools |
+| --- | --- | --- | --- |
+| Python | TypeScript | PostgreSQL | Git |
+| API development | HTML | MySQL | GitHub |
+| Server-side logic | CSS | SQL | VS Code |
+| Automation | Responsive layout | Data modeling | Linux basics |
+
+---
+
+## What I Build
+
+- Backend services and REST APIs
+- Database-driven web applications
+- Automation scripts and developer tools
+- Clean, maintainable project structures
+- Practical web solutions for real users
+
+---
+
+## Languages
+
+| Language | Level |
+| --- | --- |
+| Uzbek | Native |
+| Russian | Fluent communication, reading and understanding |
+| English | Intermediate, B1 level |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shamsiyevshamsiddin19&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsiyevshamsiddin19&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## Contact
+
+<p>
+  <a href="https://shamsiyev.uz">
+    <img src="https://img.shields.io/badge/Website-shamsiyev.uz-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://t.me/shamsiyev_shamsiddin">
+    <img src="https://img.shields.io/badge/Telegram-%40shamsiyev_shamsiddin-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://t.me/soft_area">
-    <img src="https://img.shields.io/badge/Channel-%40soft__area-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Channel-Soft%20Area-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Soft Area Telegram channel" />
+  </a>
+  <a href="https://www.linkedin.com/in/shamsiddin-shamsiyev-395516341">
+    <img src="https://img.shields.io/badge/LinkedIn-Shamsiddin%20Shamsiyev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### ✦ About Me
+<div align="center">
 
-- 𖥔 Web development enthusiast  
-- 𖥔 Learning HTML, CSS, TypeScript, and Python  
-- 𖥔 Building real projects step by step  
-- 𖥔 Focused on clean code and growth  
+Professional backend development with Python, databases and clean engineering practices.
 
----
-
-### ✦ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode" />
-</p>
-
----
-
-### ✦ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamsiyevshamsiddin19&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsiyevshamsiddin19&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  ✦ 𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ✦
-</p>
+</div>

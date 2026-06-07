@@ -52,8 +52,8 @@ Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli 
 | Django | HTML | MySQL | GitHub |
 | Flask | CSS | SQL | VS Code |
 | FastAPI | Responsive layout | Data modeling | Linux basics |
-| API development |  |  |  |
-| Automation |  |  |  |
+| REST API development | Web interface basics | SQL queries | Project structure |
+| Automation | Clean layout | Database design | Code maintenance |
 
 ---
 
@@ -79,12 +79,16 @@ Men Python backend yo'nalishida server-side ilovalar, REST API, database modeli 
 
 ## GitHub Activity
 
-<div align="center">
+I use GitHub to share backend projects, practice clean code and improve my development workflow.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shamsiyevshamsiddin19&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsiyevshamsiddin19&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
+<p>
+  <a href="https://github.com/shamsiyevshamsiddin19?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+  <a href="https://github.com/shamsiyevshamsiddin19">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
 
 ---
 

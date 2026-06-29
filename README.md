@@ -63,7 +63,7 @@ developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,typescript,html,css,cpp,postgres,mysql,git,github,vscode&theme=dark" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,typescript,html,css,cpp,postgres,git,github,vscode&theme=dark" alt="Tech stack icons" />
 
 </div>
 

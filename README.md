@@ -1,143 +1,65 @@
 <div align="center">
 
-# Shamsiddin Shamsiyev
+# Hi, I'm Shamsiddin Shamsiyev 👋
 
-### Python Backend Developer
-
-Backend tizimlar, REST API, ma'lumotlar bazasi va amaliy web yechimlar bilan ishlaydigan dasturchi.
-Asosiy e'tiborim toza kod, barqaror arxitektura va real foyda beradigan loyihalar yaratishga qaratilgan.
+<a href="https://github.com/shamsiyevshamsiddin19">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;REST+APIs+%26+Clean+Architecture;Telegram+Bots+%C2%B7+Aiogram+3;Full-stack+with+Next.js+%26+PostgreSQL" alt="Roles" />
+</a>
 
 <p>
-  <a href="https://shamsiyev.uz">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/shamsiyevshamsiddin19">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/shamsiddin-shamsiyev-395516341">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/shamsiyev_shamsiddin">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <a href="https://shamsiyev.uz"><img src="https://img.shields.io/badge/Website-2CA5E0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/shamsiddin-shamsiyev-395516341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/shamsiyev_shamsiddin"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shamsiyevshamsiddin19&style=for-the-badge&color=2CA5E0&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-## About Me
+### 🚀 About
 
-Men Python backend yo'nalishida rivojlanayotgan dasturchiman. Django, Flask va FastAPI yordamida server-side ilovalar, REST API va database-driven web loyihalar yaratish bilan shug'ullanaman.
+- 🔭 Real foydalanuvchilarga xizmat qiladigan **Telegram botlar**, **web-platformalar** va avtomatlashtirish vositalarini quraman
+- ⚙️ Backend fokusim: **REST API**, toza arxitektura, **PostgreSQL** ma'lumotlar modellashtirish
+- 🌐 **[wstore.uz](https://wstore.uz)** — raqamli mahsulotlar marketpleysining muallifiman
+- 📫 Aloqa va portfolio: **[shamsiyev.uz](https://shamsiyev.uz)**
 
-```python
-developer = {
-    "name": "Shamsiddin Shamsiyev",
-    "role": "Python Backend Developer",
-    "focus": ["REST API", "Backend Architecture", "Database Design"],
-    "frameworks": ["Django", "Flask", "FastAPI"],
-    "website": "shamsiyev.uz",
-}
-```
+### 🛠️ Tech Stack
 
-- Asosiy yo'nalish: Python backend development
-- Qiziqishlar: API design, database architecture, automation, clean code
-- Ishlash uslubi: mas'uliyatli, tizimli va natijaga yo'naltirilgan
-- Portfolio va aloqa: [shamsiyev.uz](https://shamsiyev.uz)
-
----
-
-## Backend Focus
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/Backend%20Architecture-2E3440?style=for-the-badge" alt="Backend Architecture" />
-  <img src="https://img.shields.io/badge/Database%20Design-336791?style=for-the-badge" alt="Database Design" />
-  <img src="https://img.shields.io/badge/Automation-3776AB?style=for-the-badge" alt="Automation" />
-  <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge" alt="Clean Code" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,typescript,nextjs,react,tailwind,postgres,prisma,docker,flutter,dart,git,linux&theme=dark&perline=8" alt="Tech stack" />
 </p>
 
----
+### 📌 Featured Projects
 
-## Tech Stack
+| Loyiha | Tavsif | Stack |
+| :--- | :--- | :--- |
+| 🛒 **[wstore](https://github.com/shamsiyevshamsiddin19/vibe-coding/tree/main/wstore)** | Raqamli mahsulotlar marketpleysi — to'lov, referal, admin panel | `Next.js 15` · `Prisma` · `PostgreSQL` |
+| 🎬 **[kino-bot](https://github.com/shamsiyevshamsiddin19/vibe-coding/tree/main/kino-bot)** | Kino qidiruv boti — inline rejim + web-admin | `aiogram 3` · `PostgreSQL` |
+| 🎓 **[tatu-bots](https://github.com/shamsiyevshamsiddin19/vibe-coding/tree/main/tatu-bots)** | TUIT LMS yordamchi — jadval, baholar, eslatmalar | `aiogram 3` · `httpx` |
+| 📄 **[document-convertor](https://github.com/shamsiyevshamsiddin19/vibe-coding/tree/main/document-convertor)** | PDF/DOCX/OCR/watermark konvertor boti | `aiogram 3` · `PostgreSQL` |
+
+> 💡 Barcha loyihalar: **[github.com/shamsiyevshamsiddin19/vibe-coding](https://github.com/shamsiyevshamsiddin19/vibe-coding)**
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,typescript,html,css,cpp,postgres,git,github,vscode&theme=dark" alt="Tech stack icons" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shamsiyevshamsiddin19&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsiyevshamsiddin19&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shamsiyevshamsiddin19&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
 </div>
 
-### Core Skills
+### 🗣️ Languages
 
-| Backend | Frontend | Databases | Tools |
-| --- | --- | --- | --- |
-| Python | TypeScript | PostgreSQL | Git |
-| Django | HTML | MySQL | GitHub |
-| Flask | CSS | SQL queries | VS Code |
-| FastAPI | Responsive layout | Data modeling | Linux basics |
-| REST API development | Web interface basics | Database design | Project structure |
-| Automation | Clean layout | Query optimization basics | Code maintenance |
-
----
-
-## What I Build
-
-| Direction | Description |
-| --- | --- |
-| Backend services | Server-side logic, APIs and application structure |
-| REST APIs | Clean endpoints for web and mobile applications |
-| Database projects | PostgreSQL/MySQL based applications and data models |
-| Automation tools | Scripts and utilities that save time |
-| Web solutions | Practical projects for real users and businesses |
-
----
-
-## Languages
-
-| Language | Level |
-| --- | --- |
-| Uzbek | Native |
-| Russian | Upper-intermediate, B2 level |
-| English | Intermediate, B1 level |
-
----
-
-## GitHub
-
-I use GitHub to publish projects, improve my backend skills and keep my development workflow organized.
-
-<p>
-  <a href="https://github.com/shamsiyevshamsiddin19?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  <a href="https://github.com/shamsiyevshamsiddin19">
-    <img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
-
----
-
-## Contact
-
-<p>
-  <a href="https://shamsiyev.uz">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://t.me/shamsiyev_shamsiddin">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://t.me/soft_area">
-    <img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram channel" />
-  </a>
-  <a href="https://www.linkedin.com/in/shamsiddin-shamsiyev-395516341">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+`🇺🇿 O'zbek — Native`  ·  `🇷🇺 Русский — B2`  ·  `🇬🇧 English — B1`
 
 ---
 
 <div align="center">
 
-Python backend development with clean code, reliable databases and practical engineering.
+*Python backend · toza kod · barqaror arxitektura · real foyda beradigan loyihalar*
 
 </div>

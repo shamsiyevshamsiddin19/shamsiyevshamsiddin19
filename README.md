@@ -40,7 +40,7 @@ developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,typescript,postgres,mysql,docker,git,github,vscode&theme=dark&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,typescript,postgres,git,github,vscode&theme=dark&perline=8" alt="Tech stack" />
 
 </div>
 

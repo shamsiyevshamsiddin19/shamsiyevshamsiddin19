@@ -4,9 +4,6 @@
 
 ### Python Backend Developer
 
-Backend tizimlar, REST API, ma'lumotlar bazasi va amaliy web yechimlar bilan ishlaydigan dasturchi.
-Asosiy e'tiborim — toza kod, barqaror arxitektura va real foyda beradigan loyihalar.
-
 <p>
   <a href="https://shamsiyev.uz"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/shamsiyevshamsiddin19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>

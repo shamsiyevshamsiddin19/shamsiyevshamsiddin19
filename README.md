@@ -53,6 +53,5 @@ developer = {
 
 <div align="center">
 
-*Python backend · toza kod · barqaror arxitektura · real foyda beradigan loyihalar*
 
 </div>

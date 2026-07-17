@@ -2,8 +2,6 @@
 
 # Shamsiddin Shamsiyev
 
-### Python Backend Developer
-
 <p>
   <a href="https://shamsiyev.uz"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/shamsiyevshamsiddin19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>

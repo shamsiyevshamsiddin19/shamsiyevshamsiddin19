@@ -1,6 +1,5 @@
 <div align="center">
 
-# Shamsiddin Shamsiyev
 
 <p>
   <a href="https://shamsiyev.uz"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>

@@ -42,10 +42,10 @@ developer = {
 
 | Yo'nalish | Texnologiyalar |
 | :--- | :--- |
-| **Backend** | Python · Django · Flask · FastAPI · REST API |
-| **Frontend** | TypeScript · Next.js · React · HTML · CSS · TailwindCSS |
-| **Databases** | PostgreSQL · MySQL · Prisma · SQL modeling |
-| **DevOps & Tools** | Docker · Git · GitHub · Linux · VS Code |
+| **Backend** | Python · Django · FastAPI · REST API |
+| **Frontend** | TypeScript · HTML · CSS |
+| **Databases** | PostgreSQL · MySQL · SQL modeling |
+| **DevOps & Tools** | Docker · Git · GitHub · VS Code |
 | **What I build** | Backend services · REST APIs · Telegram bots · web platforms · automation |
 | **Languages** | 🇺🇿 Uzbek — Native · 🇷🇺 Russian — B2 · 🇬🇧 English — B1 |
 
